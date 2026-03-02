@@ -118,7 +118,7 @@ with st.sidebar:
                 <img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' width='35'>
             </a>
             &nbsp;&nbsp;
-            <a href='https://github.com' target='_blank'>
+            <a href='https://github.com/ChandrashekharRobbi' target='_blank'>
                 <img src='https://cdn-icons-png.flaticon.com/128/25/25657.png' width='35'>
             </a>
             &nbsp;&nbsp;

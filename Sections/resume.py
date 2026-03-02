@@ -123,7 +123,7 @@ def page_resume():
         </div>
         <br>
         <a href="data:text/plain;charset=utf-8,Your%20Resume%20Content"
-           download="Chandrashekhar_Robbi_Resume.txt"
+           download="pdf/Chandrashekhar_Robbi_Python_Dev.pdf"
            class="resume-download-btn">
            📥 Download Resume
         </a>
@@ -138,7 +138,7 @@ def page_resume():
         st.markdown("""
         <div class="glass-card">
             <div class="section-title">📝 Professional Summary</div>
-            Analyst – Python Developer with 1 year 9 months of professional experience specializing in 
+            Analyst – Python Developer since <b>June 2024</b>, specializing in 
             Automation Engineering, Backend Development, and Generative AI applications.
             <br><br>
             Proven track record of reducing automation processing time by 50–90%, 

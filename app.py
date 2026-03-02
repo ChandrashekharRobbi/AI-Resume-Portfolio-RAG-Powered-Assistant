@@ -20,13 +20,16 @@ from Sections.architecture import page_architecture
 from huggingface_hub import login
 # from Sections.home import page_home
 
+
+def get_secret(key):
+    return st.secrets.get(key) or os.getenv(key)
 # Load environment variables
 load_dotenv()
 
 # ---------- HUGGINGFACE LOGIN (RUN ONLY ONCE) ----------
 @st.cache_resource
 def hf_login():
-    token = os.getenv("HF_TOKEN")
+    token = get_secret("HF_TOKEN")
     if token:
         login(token)
     else:
@@ -44,7 +47,7 @@ st.set_page_config(
 @st.cache_resource
 def initialize_rag_pipeline():
     """Initialize RAG pipeline with caching."""
-    groq_api_key = os.getenv("GROQ_API_KEY")
+    groq_api_key = get_secret("GROQ_API_KEY")
     
     if not groq_api_key:
         st.error("❌ GROQ_API_KEY not found in environment variables")

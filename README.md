@@ -16,14 +16,6 @@ Live AI assistant that answers questions about my:
 
 ## 🧠 Architecture Overview
 
-![Image](https://images.openai.com/static-rsc-3/e29GmmkEY0cgOZsAnufxLmitXMLQ9zsYJzM69qWPdjjcbFBGxSZkzAbw8gjL97nQ27-L9POSzau1wWpQ5Qe10Uy_WNHmUYvc6cHnSDlNlgU?purpose=fullsize\&v=1)
-
-![Image](https://qdrant.tech/articles_data/what-is-a-vector-database/architecture-vector-db.png)
-
-![Image](https://images.openai.com/static-rsc-3/QjAoHQ4xmo1pwz-UkM4Ibmer97YMXqpcEBQdvSzKkSxG678Z6U927p6cy4e5nCSsaUII31t-GsSYX_RkoteHmfmO3IBgrcmz9Bl5bBmZUqA?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/83pHEMP7nW-hSncepzS2pE9od2vKUh7cBu8Cb31JX2ptE_9_ko6Ffz8UBhzgpRzt6ZPzSrrhCqgEynINDzGUSuTNYOziKeun_-rN5QpZahg?purpose=fullsize\&v=1)
-
 This project follows a **Retrieval-Augmented Generation (RAG)** architecture:
 
 1. Portfolio data stored in `/data`
@@ -155,14 +147,6 @@ It demonstrates:
 ---
 
 ## 📸 AI Assistant Preview
-
-![Image](https://global.discourse-cdn.com/streamlit/original/2X/1/1c3534b3700888360426b38076a3d2e639c90c64.png)
-
-![Image](https://s3-alpha.figma.com/hub/file/2193232690470604774/1915d46f-e546-4e4d-80cf-d5e795ef1b4e-cover.png)
-
-![Image](https://global.discourse-cdn.com/streamlit/original/3X/d/e/dea9cb6d2caf12bea993f1e2f4b4e6c805df6ad6.png)
-
-![Image](https://global.discourse-cdn.com/streamlit/optimized/3X/3/4/340c91f160e0fad8bbc70e4c857a2bb2080e90cc_2_1024x537.png)
 
 The AI assistant can answer:
 

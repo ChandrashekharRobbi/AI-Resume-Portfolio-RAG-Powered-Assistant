@@ -22,7 +22,7 @@ from huggingface_hub import login
 
 
 def get_secret(key):
-    return st.secrets.get(key) or os.getenv(key)
+    return os.getenv(key) or st.secrets.get(key) 
 # Load environment variables
 load_dotenv()
 

@@ -40,12 +40,6 @@ ai_resume_env/
 *~
 .DS_Store
 
-# Vector store cache
-.vector_store/
-
-# Streamlit
-.streamlit/
-
 # Temporary files
 *.tmp
 *.temp

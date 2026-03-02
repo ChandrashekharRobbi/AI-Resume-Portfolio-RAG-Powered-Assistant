@@ -168,8 +168,25 @@ def page_ai_assistant():
         st.error("RAG Pipeline not initialized")
         return
 
-    st.title("🤖 Chandu Intelligence")
-    st.caption("Context-aware AI powered by RAG + Vector Search")
+    # ---------- HERO SECTION ----------
+    st.markdown("""
+    <div style="
+        padding: 30px;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        color: white;
+        margin-bottom: 25px;
+    ">
+        <h1 style="margin-bottom: 5px;">🤖 CR Intelligence</h1>
+        <p style="font-size: 18px;">
+        AI-powered interactive resume built with <b>RAG + Vector Search</b>.
+        Ask anything about my experience, projects, or skills.
+        </p>
+        <p style="opacity:0.9;">
+        💡 Try a suggested question below or type your own.
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
 
     # Initialize chat history
     if "messages" not in st.session_state:
@@ -290,4 +307,3 @@ page_functions = {
 
 page_function = page_functions.get(choose, page_ai_assistant)
 page_function()
-

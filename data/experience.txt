@@ -1,0 +1,220 @@
+Chandrashekhar Robbi — Professional Experience
+Total Professional Experience
+
+1 Year 9 Months of professional experience in Python development, automation engineering, and backend solutions within data-driven environments.
+
+Primary expertise includes automation optimization, backend workflow development, data processing pipelines, and AI-driven solutions.
+
+eClerx — Analyst (Python Developer)
+
+Employment Type: Full-Time
+Start Date: June 2024
+Location: India
+Domain: Data
+Tech Stack: Python, SQL, Azure, Automation Tools
+
+Role Overview
+
+Working as a Python Developer focused on automation systems, backend workflows, and data processing optimization. Responsible for building scalable solutions that reduce manual effort, improve system reliability, and increase operational efficiency.
+
+Key Responsibilities
+
+Develop automation workflows for data processing operations.
+
+Design backend logic and data handling pipelines.
+
+Improve performance of existing systems.
+
+Build error reporting and monitoring solutions.
+
+Support cross-functional teams in resolving technical issues.
+
+Collaborate with developers to improve development workflows.
+
+Deliver solutions within strict deadlines.
+
+Major Contributions & Impact
+Automation Performance Optimization
+
+Reduced automation execution time by 50–90% by redesigning workflow pipelines.
+
+Eliminated manual intervention through process automation.
+
+Improved operational efficiency and turnaround time.
+
+Chrome Version Management Automation
+
+Resolved Chrome version mismatch issues affecting automation.
+
+Implemented dynamic browser driver handling.
+
+Eliminated dependency on manual updates.
+
+Impact:
+
+Increased system reliability.
+
+Reduced maintenance overhead.
+
+Production Error Reporting System
+
+Developed automated reporting tools including:
+
+Production Disabled List reporting.
+
+Production Error Report generation.
+
+Monitoring of system failures.
+
+Impact:
+
+Improved issue visibility.
+
+Faster troubleshooting and system monitoring.
+
+Production to Environment Data Sync Pipeline
+
+Built bulk data synchronization system between Production and other environments.
+
+Automated data transfer processes.
+
+Reduced manual data handling efforts significantly.
+
+Impact:
+
+Reduced operational time by 80–90%.
+
+Improved environment consistency.
+
+Bulk Data Processing Optimization
+
+Problem:
+Regulatory data processing required downloading and scraping documents repeatedly.
+
+Solution:
+
+Implemented scheduled document download every 7 days.
+
+Stored entity data in database.
+
+Served future requests directly from database cache.
+
+Synced processed data across environments.
+
+Impact:
+
+Reduced processing time by 50–70%.
+
+Improved response efficiency.
+
+Reduced redundant operations.
+
+Code Deployment Automation Tool
+
+Built script to validate mappings before deployment.
+
+Automated shifting code between environments.
+
+Prevented missing configuration errors.
+
+Impact:
+
+Improved deployment accuracy.
+
+Reduced manual deployment risks.
+
+SQL Execution Automation Tool
+
+Developed script to execute SQL mappings across multiple environments.
+
+Eliminated need to manually switch database connections.
+
+Impact:
+
+Increased execution speed.
+
+Reduced human error.
+
+Collaboration & Team Contribution
+
+Partnered with multiple developers to solve technical problems.
+
+Supported team members with debugging and development guidance.
+
+Interacted with cross-functional teams.
+
+Delivered all assigned work within deadlines.
+
+Qodeit — Python AI Intern
+
+Employment Type: Internship
+Duration: 3 Months
+Domain: Artificial Intelligence Development
+
+Role Overview
+
+Worked on AI-related development tasks and backend solutions. Contributed to project development and gained practical experience in AI implementation.
+
+Key Responsibilities
+
+Worked on AI-based problem solving.
+
+Assisted in backend development tasks.
+
+Implemented features using Python.
+
+Delivered assigned tasks within deadlines.
+
+Key Outcomes
+
+Gained hands-on experience in AI solution development.
+
+Learned practical implementation of backend services.
+
+Built foundation for professional Python and AI development work.
+
+Teaching Experience (Parallel Professional Experience)
+
+Start Year: 2020
+Mode: Offline Teaching
+Students Taught: 510+
+
+Subjects:
+
+English (8th–10th Standard)
+
+Chemistry (11th–12th Science)
+
+Responsibilities
+
+Conduct concept-based teaching.
+
+Provide exam-oriented preparation.
+
+Use real-world examples for explanation.
+
+Manage student performance and progress.
+
+Impact
+
+Built strong communication and presentation skills.
+
+Developed ability to explain complex concepts clearly.
+
+Improved public interaction and confidence.
+
+Demonstrated leadership and knowledge-sharing ability.
+
+Experience Themes (For AI Retrieval)
+
+Python development and backend engineering experience.
+
+Strong automation and workflow optimization expertise.
+
+Significant impact in reducing manual effort and processing time.
+
+Experience in data processing environments.
+
+AI development exposure during internship.
+
+Long-term teaching experience demonstrating communication skills.

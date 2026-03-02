@@ -1,0 +1,297 @@
+Chandrashekhar Robbi — Technical Skills & Expertise
+Skill Profile Overview
+
+Chandrashekhar Robbi specializes in Python-based backend development, automation engineering, and Generative AI applications. His technical focus is on building scalable systems, optimizing workflows, and developing AI-driven solutions that reduce manual effort and improve efficiency.
+
+Primary expertise areas:
+
+Python Development
+
+Automation Engineering
+
+Backend Engineering
+
+Generative AI Systems
+
+Workflow Optimization
+
+Programming Languages
+Python — Primary Language (Advanced)
+
+Backend system development
+
+Automation scripting
+
+API development
+
+Data processing
+
+AI/ML implementation
+
+Web scraping
+
+Workflow optimization
+
+Integration development
+
+Capabilities:
+
+Writing production-quality code
+
+Building scalable automation pipelines
+
+Implementing AI models
+
+System performance optimization
+
+Code debugging and optimization
+
+SQL — Intermediate
+
+Database querying
+
+Data retrieval and manipulation
+
+Multi-environment query execution
+
+Data processing support
+
+Backend data handling
+
+Capabilities:
+
+Writing complex queries
+
+Data synchronization workflows
+
+Database-driven automation systems
+
+Backend Development
+FastAPI
+
+REST API development
+
+Backend service implementation
+
+High-performance API design
+
+Integration services
+
+Flask
+
+Lightweight backend development
+
+Web application development
+
+API implementation
+
+Rapid prototyping
+
+Artificial Intelligence & Machine Learning
+Generative AI (GenAI)
+
+AI-powered applications
+
+Prompt-based systems
+
+LLM integration
+
+AI-driven workflows
+
+Agentic AI exploration
+
+Machine Learning
+
+Model training and evaluation
+
+Image classification systems
+
+Neural networks
+
+Transfer learning (VGG16)
+
+Deep Learning
+
+Computer vision models
+
+Visual speech recognition
+
+Pattern recognition systems
+
+Model training pipelines
+
+Natural Language Processing (NLP)
+
+Chatbot development
+
+Query processing systems
+
+AI interaction workflows
+
+Automation Engineering (Core Strength)
+
+Automation is a primary expertise area focused on reducing manual work and improving system efficiency.
+
+Capabilities:
+
+Process automation design
+
+Workflow optimization
+
+Task automation pipelines
+
+Developer productivity tools
+
+Scheduled data processing systems
+
+Script-based automation solutions
+
+Experience includes:
+
+Git workflow automation
+
+Data processing optimization
+
+Deployment automation
+
+Bulk data handling systems
+
+Multi-environment execution pipelines
+
+Data Processing & System Optimization
+
+Data workflow design
+
+Performance optimization
+
+Batch processing systems
+
+Data caching strategies
+
+Bulk data pipelines
+
+Processing time reduction techniques
+
+System reliability improvement
+
+Cloud & Environment Tools
+Azure (Data Environment)
+
+Data processing environment usage
+
+Automation deployment support
+
+Backend workflow execution
+
+Development Tools & Technologies
+
+Git version control
+
+Regex-based processing
+
+Web scraping techniques
+
+Streamlit UI development
+
+API integration
+
+Script-based tools
+
+Computer Science Fundamentals
+
+Data Structures and Algorithms
+
+Problem-solving techniques
+
+Algorithmic thinking
+
+Software design principles
+
+System logic development
+
+Soft Skills & Professional Skills
+Problem Solving
+
+Real-world problem identification
+
+Efficient solution design
+
+Optimization-focused thinking
+
+Communication
+
+Clear technical explanation
+
+Public interaction
+
+Teaching experience
+
+Cross-team collaboration
+
+Learning Ability
+
+Continuous skill development
+
+Rapid technology adoption
+
+Self-driven learning approach
+
+Code Quality Focus
+
+Structured coding practices
+
+Maintainable code design
+
+Performance-aware implementation
+
+Skill Strength Areas (Highest Expertise)
+
+Python Development
+
+Automation Engineering
+
+Backend Logic Development
+
+Workflow Optimization
+
+Generative AI Applications
+
+Emerging Focus Areas
+
+Agentic AI Systems
+
+Advanced AI automation workflows
+
+AI-driven backend systems
+
+Scalable AI service architecture
+
+RAG
+
+LLMs
+
+Vector search
+
+HuggingFace
+
+NLP
+
+AI system design
+
+Groq inference
+
+Data pipelines
+
+Skill Themes (For AI Retrieval)
+
+Strong Python developer.
+
+Backend and automation specialist.
+
+Experience with AI and machine learning.
+
+Focus on reducing manual effort through automation.
+
+Performance and workflow optimization mindset.
+
+Continuous learner and problem solver.

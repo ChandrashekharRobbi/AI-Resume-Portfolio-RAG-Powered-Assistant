@@ -1,0 +1,424 @@
+Chandrashekhar Robbi — Projects Portfolio
+Project Philosophy
+
+Chandrashekhar focuses on building projects that solve real-world problems, automate repetitive workflows, and demonstrate strong backend, automation, and AI capabilities. Most projects are independently developed with primary ownership of Python implementation and system design.
+
+Core themes:
+
+Automation of repetitive processes
+
+AI-based problem solving
+
+Backend system development
+
+Real-world impact and usability
+
+Performance optimization
+
+AI & Machine Learning Projects
+Paddy Doctor — Paddy Crop Disease Classification System
+Overview
+
+Paddy Doctor is an AI-powered crop disease classification system designed to identify diseases in paddy crops using deep learning techniques. The model analyzes crop images and predicts disease categories with high accuracy.
+
+Problem Solved
+
+Manual disease detection in crops is time-consuming and error-prone. This system provides automated disease diagnosis for agricultural assistance.
+
+Tech Stack
+
+Python
+
+TensorFlow
+
+VGG16 (Transfer Learning)
+
+Deep Learning
+
+Image Classification
+
+Dataset
+
+Kaggle dataset containing various paddy disease samples.
+
+Role
+
+Primary Python Developer.
+
+Implemented model training pipeline.
+
+Built classification workflow.
+
+Key Results
+
+Achieved 98% accuracy.
+
+Reliable disease classification performance.
+
+Impact
+
+Demonstrates applied machine learning capability.
+
+Shows ability to build production-grade classification models.
+
+MNIST Digit Classifier — Handwritten Digit Recognition
+Overview
+
+A deep learning model that recognizes and classifies handwritten digits from 0 to 9 using the MNIST dataset.
+
+Problem Solved
+
+Demonstrates neural network capability in pattern recognition tasks.
+
+Tech Stack
+
+Python
+
+Neural Networks
+
+Deep Learning
+
+MNIST Dataset
+
+Role
+
+Implemented model training and testing pipeline.
+
+Impact
+
+Demonstrates strong machine learning fundamentals.
+
+Foundation for computer vision understanding.
+
+LipNet — Visual Speech Recognition System
+Overview
+
+LipNet predicts spoken text using only visual lip movement from video input, without relying on audio.
+
+Problem Solved
+
+Traditional speech recognition requires audio input. This system enables speech understanding from visual cues.
+
+Tech Stack
+
+Python
+
+Custom Deep Learning Model
+
+Video Processing
+
+Computer Vision
+
+Streamlit UI
+
+Implementation
+
+Trained custom model on video-to-lip data.
+
+Built interactive interface for testing predictions.
+
+Role
+
+Designed model workflow.
+
+Implemented training logic.
+
+Built user interface.
+
+Impact
+
+Demonstrates advanced AI and computer vision capability.
+
+Shows ability to work with complex model architectures.
+
+Generative AI & NLP Projects
+AI Resume Portfolio — RAG Powered Assistant System
+Overview
+
+AI Resume Portfolio is a multi-page intelligent portfolio application built using Retrieval Augmented Generation (RAG) architecture. It includes a context-aware AI assistant capable of answering questions about experience, skills, projects, and architecture using semantic search and vector retrieval.
+
+The system combines document ingestion, embedding generation, vector indexing, and LLM inference to produce accurate, context-aware responses.
+
+Problem Solved
+
+Traditional portfolios are static and cannot dynamically answer questions about experience or technical depth.
+
+This system transforms a portfolio into an interactive AI assistant that:
+
+Understands natural language queries
+
+Retrieves relevant context from indexed data
+
+Generates structured, intelligent responses
+
+Explains system architecture and technical decisions
+
+Architecture Overview
+
+Document ingestion from structured text files
+
+Embedding generation using transformer-based models
+
+Vector index creation and local storage
+
+Semantic similarity search
+
+Context injection into LLM
+
+Groq-powered inference for fast response generation
+
+Session-based chat memory
+
+Tech Stack
+
+Python
+
+Streamlit (Multi-page AI application)
+
+Retrieval Augmented Generation (RAG)
+
+Large Language Models (LLMs)
+
+HuggingFace Embeddings
+
+Vector Search
+
+Groq LLM Inference
+
+NLP
+
+Caching & Session Management
+
+Modular AI System Architecture
+
+Key Features
+
+Context-aware AI assistant
+
+Semantic search over personal portfolio data
+
+Multi-page architecture
+
+Optimized vector storage
+
+Cached resource loading for performance
+
+Structured AI response generation
+
+Chat-based interaction system
+
+Role
+
+Designed full RAG pipeline
+
+Built vector indexing system
+
+Implemented embedding workflow
+
+Integrated Groq LLM inference
+
+Developed Streamlit UI and chat interface
+
+Designed modular, scalable architecture
+
+Key Results
+
+High-speed LLM inference using Groq
+
+Accurate context-aware answers
+
+Clean modular system design
+
+Mobile-friendly responsive application
+
+Production-ready AI portfolio system
+
+Impact
+
+Demonstrates end-to-end AI system design
+
+Shows applied knowledge of RAG architecture
+
+Highlights LLM integration skills
+
+Proves ability to build real-world AI applications
+
+Strong positioning toward Agentic AI systems
+
+GenMed — Generic Medicine Information Chatbot
+Overview
+
+GenMed is an AI-powered chatbot that provides generic medicine prices and helps users locate the nearest Jan Aushadi Kendra.
+
+Problem Solved
+
+Users lack easy access to affordable medicine information and nearby government pharmacies.
+
+Features
+
+Generic medicine price search.
+
+Jan Aushadi Kendra search by pincode.
+
+Natural language query handling.
+
+Tech Stack
+
+Python
+
+Streamlit
+
+OpenAI API
+
+NLP
+
+Web Scraping
+
+Data Sources
+
+Jan Aushadi Kendra website.
+
+Tata 1mg website.
+
+Role
+
+Built chatbot logic.
+
+Implemented data scraping.
+
+Integrated AI responses.
+
+Impact
+
+Simplifies access to affordable healthcare information.
+
+Real-world AI application.
+
+Automation & Developer Productivity Projects
+GitHub Automation Watchdog Script
+Overview
+
+Automation script that detects new functions in code and automatically commits and pushes changes to GitHub.
+
+Problem Solved
+
+Manual Git workflow during DSA practice required repetitive commands.
+
+Implementation
+
+Uses git diff to detect file changes.
+
+Uses regex to identify functions.
+
+Automatically generates comments.
+
+Pushes updates to repository.
+
+Tech Stack
+
+Python
+
+Git
+
+Regex
+
+Automation scripting
+
+Impact
+
+Improved development efficiency.
+
+Reduced repetitive manual work.
+
+LeetCode Automation Tool
+Overview
+
+Automation tool that fetches LeetCode problem descriptions and examples using problem name input.
+
+Problem Solved
+
+Manual search and copying of problem details slowed practice workflow.
+
+Implementation
+
+Automated problem retrieval.
+
+Structured output for practice.
+
+Tech Stack
+
+Python
+
+Automation scripting
+
+Impact
+
+Faster and more structured problem-solving workflow.
+
+Real-World Automation Projects
+Movie & Series Watchlist Automation Pipeline
+Overview
+
+A fully automated pipeline that stores movie or series information in Notion by entering only the name.
+
+Problem Solved
+
+Manual tracking of watchlist details required repetitive data entry.
+
+Workflow
+
+User enters movie name.
+
+OMDB API fetches metadata.
+
+Data stored in Google Sheets for validation.
+
+Apps Script processes data.
+
+Final data pushed to Notion database.
+
+Data Stored
+
+Name
+
+Director
+
+Release Year
+
+Genre
+
+IMDb Rating
+
+Cover Image
+
+Tech Stack
+
+Python
+
+OMDB API
+
+Google Sheets
+
+Apps Script
+
+Notion Integration
+
+Impact
+
+Eliminates manual data entry.
+
+Creates searchable watchlist database.
+
+Project Themes (For AI Retrieval)
+
+Strong focus on automation and efficiency improvement.
+
+Experience with AI, machine learning, and NLP systems.
+
+Real-world problem solving mindset.
+
+Backend and workflow automation expertise.
+
+Independent project ownership.
+
+Practical application of Python in multiple domains.

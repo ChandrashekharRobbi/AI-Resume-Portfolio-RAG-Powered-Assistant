@@ -1,0 +1,221 @@
+Chandrashekhar Robbi
+
+Thane, Maharashtra, India
+Email: chandrashekarrobbi789@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ChandrashekharRobbi
+
+GitHub: https://github.com/ChandrashekharRobbi
+
+Notice Period: 30 Days
+
+Professional Summary
+
+Analyst – Python Developer with 1 year 9 months of professional experience specializing in Automation Engineering, Backend Development, and Generative AI applications. Strong expertise in designing scalable workflows, reducing manual processes, and building production-grade automation systems.
+
+Graduated with a B.E in Computer Science Engineering (Artificial Intelligence & Machine Learning) with a CGPI of 9.63. Recognized for technical excellence, structured problem-solving, and delivering measurable impact in data-driven environments.
+
+Technical Skills
+
+Programming & Core Technologies:
+
+Python
+
+SQL
+
+Generative AI
+
+Backend Development
+
+Automation Engineering
+
+Frameworks & Tools:
+
+FastAPI
+
+Flask
+
+TensorFlow
+
+Azure (Data Environment)
+
+Git
+
+Streamlit
+
+Concepts:
+
+Data Structures & Algorithms
+
+Deep Learning
+
+Computer Vision
+
+NLP
+
+Workflow Optimization
+
+Production Deployment
+
+Professional Experience
+eClerx — Analyst (Python Developer)
+
+June 2024 – Present
+Domain: Data
+Tech Stack: Python, SQL, Azure
+
+Key Contributions:
+
+Reduced automation execution time by 50–90% through workflow redesign.
+
+Built bulk data synchronization pipeline between Production and other environments, reducing manual effort by 80–90%.
+
+Optimized regulatory document processing by implementing scheduled downloads and database caching, reducing response time by 50–70%.
+
+Developed dynamic Chrome driver handling to eliminate version mismatch issues.
+
+Created automated reporting tools:
+
+Production Disabled List
+
+Production Error Reports
+
+Built SQL execution automation tool for multi-environment deployment.
+
+Designed code deployment validation script to prevent configuration errors.
+
+Collaborated with cross-functional teams and supported debugging efforts.
+
+Impact:
+Improved operational efficiency, reduced manual intervention, and enhanced automation reliability.
+
+Qodeit — Python AI Intern
+
+Duration: 3 Months
+
+Worked on AI-related development tasks.
+
+Contributed to backend development.
+
+Delivered assigned tasks within deadlines.
+
+Gained practical experience in AI system implementation.
+
+Projects
+Paddy Doctor — AI-Based Paddy Disease Classification
+
+Built using TensorFlow and VGG16 (Transfer Learning).
+
+Achieved 98% accuracy.
+
+Implemented image classification pipeline.
+
+Dataset sourced from Kaggle.
+
+LipNet — Visual Speech Recognition
+
+Developed custom deep learning model for lip-reading from video.
+
+Built interactive Streamlit interface.
+
+Demonstrated advanced computer vision capability.
+
+GenMed — Medicine Information Chatbot
+
+Built using Python, Streamlit, OpenAI API.
+
+Implemented web scraping from Jan Aushadi and Tata 1mg.
+
+Enabled generic medicine price lookup and Kendra search by pincode.
+
+GitHub Automation Watchdog
+
+Automated git workflow using git diff and regex.
+
+Auto-detected new functions and pushed commits.
+
+Improved development productivity during DSA practice.
+
+Movie Automation Pipeline
+
+Integrated OMDB API with Google Sheets and Notion.
+
+Automated movie metadata logging.
+
+Eliminated manual tracking process.
+
+Education
+
+Bachelor of Engineering (B.E) — Computer Science Engineering (AIML)
+Saraswati College of Engineering, Mumbai University
+Graduation Year: 2024
+CGPI: 9.63
+
+Semester SGPI:
+
+S1: 9.89
+
+S2: 9.60
+
+S3: 9.86
+
+S4: 9.00
+
+S5: 9.59
+
+S6: 9.87
+
+S7: 10.00
+
+S8: 9.29
+
+Certifications
+
+Python Certification — IIT Bombay
+
+Generative AI Certification — University of Munich
+
+Multiple technical certifications — Udemy
+
+Achievements
+
+Appreciation Award — 2024
+
+Super Achiever Award — 2025
+
+Avishkar Competition — 3rd Rank
+
+Hackoverflow — Participant
+
+GenMed Project Publication
+
+Teaching Experience
+
+Teaching Since: 2020
+Mode: Offline
+Students Taught: 510+
+
+Subjects:
+
+English (8th–10th)
+
+Chemistry (11th–12th)
+
+Teaching Approach:
+Concept-based, exam-focused, and real-world explanation methodology.
+
+Strengths
+
+Strong problem-solving ability
+
+Core technical understanding
+
+Clear communication skills
+
+Fast learner
+
+Quality-focused coding practices
+
+Career Objective
+
+Seeking roles as Python Developer, Generative AI Engineer, or Agentic AI Developer in service-based or product-based organizations. Long-term goal is to grow into a Team Lead role driving technical excellence and AI-powered automation systems.

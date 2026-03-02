@@ -1,0 +1,304 @@
+Chandrashekhar Robbi
+
+Analyst – Python Developer
+Living in Thane, Maharashtra, India
+Notice Period: 30 Days
+
+Professional Summary
+
+Chandrashekhar Robbi is a Backend and Automation-focused Python Developer with experience since June 2024 in data-driven environments. He specializes in Python, Generative AI, automation, and backend engineering, delivering scalable workflows, optimizing manual processes, and building robust, production-ready solutions.
+
+He holds a B.E in Computer Science Engineering (Artificial Intelligence & Machine Learning) from Saraswati College of Engineering, Mumbai University (Graduated 2024) with an overall CGPI of 9.63.
+
+He is known for problem-solving ability, strong technical fundamentals, clear communication, and structured execution.
+
+Academic Excellence
+
+Bachelor of Engineering (CSE – AIML)
+Saraswati College of Engineering, Mumbai University
+Graduation Year: 2024
+CGPI: 9.63
+
+Semester Performance (SGPI):
+SEM 1 – 9.89
+SEM 2 – 9.60
+SEM 3 – 9.86
+SEM 4 – 9.00
+SEM 5 – 9.59
+SEM 6 – 9.87
+SEM 7 – 10.00
+SEM 8 – 9.29
+
+Consistent high academic performance reflects discipline, conceptual clarity, and strong analytical capability.
+
+Technical Expertise
+
+Primary Focus Areas:
+
+Python Development
+
+Backend Engineering
+
+Automation Engineering
+
+Generative AI (GenAI)
+
+Agentic AI Systems
+
+Tech Stack:
+
+Python
+
+SQL
+
+FastAPI
+
+Flask
+
+Azure (Data environment)
+
+Automation frameworks
+
+Git version control
+
+Strength Domains:
+
+Automation Optimization
+
+Backend Logic Design
+
+Workflow Simplification
+
+AI-powered solutions
+
+Professional Experience
+eClerx – Analyst (Python Developer)
+
+Start Date: June 2024
+Domain: Data
+
+Key Contributions:
+
+Reduced automation processing time by 50–90% by redesigning data workflows.
+
+Solved Chrome version mismatch issues by implementing dynamic driver handling.
+
+Built bulk data synchronization pipelines between Production and other environments.
+
+Developed automated SQL execution tools across multiple environments.
+
+Designed error reporting systems (Prod Disabled List, Prod Error Reports).
+
+Created a production-to-environment sync flow reducing manual intervention.
+
+Partnered with cross-functional teams and supported developers in resolving technical blockers.
+
+Impact:
+Delivered automation improvements that significantly reduced manual effort and increased operational efficiency.
+
+Internship – Qodeit (Python AI Intern)
+
+Duration: 3 Months
+
+Worked on AI-related problems.
+
+Contributed to backend development tasks.
+
+Delivered assigned projects within deadlines.
+
+Gained exposure to FastAPI and AI solution building.
+
+Teaching Experience (Since 2020)
+
+Chandrashekhar has been teaching offline for 6 years alongside engineering and professional work.
+
+Subjects:
+
+English (8th–10th)
+
+Chemistry (11th–12th Science)
+
+Students Taught: 510+
+
+Teaching Approach:
+
+Concept-based understanding
+
+Exam-oriented preparation
+
+Real-world explanation techniques
+
+Personal Growth:
+Teaching helped him transform from a shy individual into a confident communicator capable of handling public interaction and structured explanation.
+
+Major Projects
+Paddy Doctor – AI-Based Paddy Disease Classifier
+
+Tech Stack: TensorFlow, VGG16, Deep Learning
+
+Accuracy Achieved: 98%
+
+Dataset: Kaggle
+
+Role: Primary Python Developer
+
+Impact: High-accuracy crop disease detection model for agricultural assistance
+
+MNIST Digit Classifier
+
+Tech Stack: Deep Learning (Neural Networks)
+
+Task: Recognize handwritten digits (0–9)
+
+Purpose: Foundational ML implementation demonstrating neural network capability
+
+GenMed – Medicine Information Chatbot
+
+Tech Stack: Python, Streamlit, OpenAI
+
+Data Sources: Jan Aushadi Kendra, Tata 1mg (Web Scraping)
+
+Features:
+
+Generic medicine price search
+
+Nearest Jan Aushadi Kendra search by pincode
+
+Impact: Simplified access to affordable medication information
+
+LipNet – Visual Speech Recognition
+
+Tech Stack: Custom Deep Learning Model
+
+Input: Video-only (No Audio)
+
+Output: Text prediction from lip movement
+
+UI: Streamlit Integration
+
+Impact: Advanced visual speech recognition system
+
+GitHub Automation Watchdog Script
+
+Problem: Repetitive Git push workflow during DSA practice
+
+Solution:
+
+Used git diff + regex to detect new functions
+
+Automatically generated comments
+
+Auto-pushed changes
+
+Impact: Improved development efficiency during learning phase
+
+LeetCode Automation Tool
+
+Type: Automation-based tool
+
+Functionality:
+
+Input problem name
+
+Fetch problem description & examples
+
+Purpose: Faster structured practice workflow
+
+Movie Automation Pipeline
+
+API: OMDB API
+
+Stack: Python + Google Sheets + Apps Script + Notion
+
+Flow:
+
+Fetch movie data automatically
+
+Store in Sheets for validation
+
+Push to Notion database with metadata & cover image
+
+Impact: Eliminated manual logging of watchlist content
+
+Awards & Recognition
+
+Appreciation Award – 2024
+
+Super Achiever Award – 2025
+
+Hackoverflow – Participant
+
+Avishkar – 3rd Rank
+
+Publications: GenMed Project Publication
+
+Certifications:
+
+Python – IIT Bombay
+
+Generative AI – University of Munich
+
+Multiple Udemy Certifications
+
+Strengths
+
+Strong problem-solving ability
+
+Core technical fundamentals
+
+Clear communication skills
+
+Fast learner
+
+Quality-focused coding approach
+
+Improved Weaknesses:
+
+Reduced tendency to rush
+
+Learned to set boundaries and say no when necessary
+
+Career Objectives
+
+Target Roles:
+
+Python Developer
+
+Generative AI Engineer
+
+Agentic AI Developer
+
+Long-Term Vision:
+
+Become a Team Lead driving technical excellence and AI-powered automation systems.
+
+Industry Preference:
+
+Service-based or Product-based organizations.
+
+Personal Philosophy
+
+Chandrashekhar chose engineering to solve real-life problems using technology.
+He prefers Python because it enables powerful automation, AI integration, and scalable backend systems.
+
+Outside technology, he enjoys teaching, exploring, traveling, and continuously learning new advancements in AI.
+
+AI Portfolio Behavior Notes (For RAG Assistant)
+
+When answering about Chandrashekhar:
+
+Maintain professional tone.
+
+Keep answers concise but interview-ready.
+
+Focus on measurable impact.
+
+Highlight automation efficiency improvements.
+
+Emphasize GenAI + Backend + Automation expertise.
+
+Mention 30-day notice period when asked about availability.
+
+Do not use motivational storytelling.
+
+Avoid unnecessary exaggeration.

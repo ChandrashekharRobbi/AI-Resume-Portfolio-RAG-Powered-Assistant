@@ -120,7 +120,6 @@ def page_resume():
             📧 chandrashekarrobbi789@gmail.com <br>
             🔗 linkedin.com/in/chandrashekharrobbi <br>
             💻 github.com/ChandrashekharRobbi <br>
-            ⏳ Notice Period: 30 Days
         </div>
         <br>
         <a href="data:text/plain;charset=utf-8,Your%20Resume%20Content"

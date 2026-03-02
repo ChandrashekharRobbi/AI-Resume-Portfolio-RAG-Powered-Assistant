@@ -62,7 +62,7 @@ def page_contact():
     st.markdown('''
     <div class="contact-subtitle">
     Analyst – Python Developer | Open to Backend, Automation & Generative AI Opportunities <br>
-    📍 Thane, Maharashtra, India | ⏳ Notice Period: 30 Days
+    📍 Thane, Maharashtra, India 
     </div>
     ''',
             unsafe_allow_html=True

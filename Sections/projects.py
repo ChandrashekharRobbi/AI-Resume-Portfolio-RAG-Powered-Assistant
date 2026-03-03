@@ -169,7 +169,7 @@ def page_projects():
                 "NLP",
                 "AI System Architecture"
             ],
-            "github": "YOUR_PORTFOLIO_REPO_LINK"
+            "github": "https://github.com/ChandrashekharRobbi/AI-Resume-Portfolio-RAG-Powered-Assistant"
         },
 
         {

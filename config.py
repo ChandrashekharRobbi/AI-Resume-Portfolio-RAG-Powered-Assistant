@@ -44,7 +44,7 @@ COMPRESS_THRESHOLD = 0.5  # Compress context if similarity < this
 
 # Caching strategy
 ENABLE_QUERY_CACHE = True
-CACHE_SIMILARITY_THRESHOLD = 0.9  # Cache hits for very similar queries
+CACHE_SIMILARITY_THRESHOLD = 0.60  # Cache hits for semantically similar queries (lowered for variations)
 MAX_CACHE_SIZE = 500  # Maximum cached queries
 
 # ============================================================================

@@ -20,11 +20,11 @@ from Sections.architecture import page_architecture
 from huggingface_hub import login
 # from Sections.home import page_home
 
+# Load environment variables
+load_dotenv()
 
 def get_secret(key):
     return os.getenv(key) or st.secrets.get(key) 
-# Load environment variables
-load_dotenv()
 
 # ---------- HUGGINGFACE LOGIN (RUN ONLY ONCE) ----------
 @st.cache_resource
